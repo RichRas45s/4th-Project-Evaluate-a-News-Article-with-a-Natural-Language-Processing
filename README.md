@@ -8,6 +8,7 @@
 3. Using Node 14  & webpack 4
 
 on cli 
-1.  npm run-build-prod 
-2. npm run build-dev
-3. npm run start
+1. source $(brew --prefix nvm)/nvm.sh
+2. npm run-build-prod  
+3. npm run build-dev
+4. npm run start
